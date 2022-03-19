@@ -25,6 +25,7 @@
   .img {
     margin-bottom: 30px;
 }
+}
 .img img {
   width: 100%;
 }
@@ -92,5 +93,4 @@ textarea:focus {
 }
 h1 {
   color: #dfb76e;
-}
 }
