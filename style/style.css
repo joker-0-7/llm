@@ -15,7 +15,7 @@
   margin-right: auto;
 }
 .about-us {
-  height: 80vh;
+  height: auto;
 }
 .img {
   position: relative;
@@ -59,10 +59,10 @@
 }
 .masions {
   position: relative;
-  height: 80vh;
+  height: auto;
 }
 .jop {
-  height: 80vh;
+  height: auto;
 }
 form input,
 textarea {
