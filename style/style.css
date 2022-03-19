@@ -21,6 +21,10 @@
   position: relative;
   z-index: 9;
 }
+@media (max-width: 747px) {
+  .img {
+    margin-bottom: 30px;
+}
 .img img {
   width: 100%;
 }
